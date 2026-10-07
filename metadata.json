@@ -1,0 +1,6 @@
+{
+  "name": "BurgerSQL - Sistema de Pedidos em Tempo Real",
+  "description": "Sistema completo de pedidos de hambúrguer com banco de dados SQL relacional para gestão de itens, clientes e histórico de compras em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
